@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.10.15)  21 OCT 2012 16:36
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.10.15)  21 OCT 2012 17:41
 entering extended mode
  %&-line parsing enabled.
 **relevant_eq.tex
@@ -198,12 +198,12 @@ Overfull \hbox (68.90945pt too wide) detected at line 44
 No file relevant_eq.bbl.
 [3] (./relevant_eq.aux) ) 
 Here is how much of TeX's memory you used:
- 2759 strings out of 495062
- 33329 string characters out of 1182643
+ 2760 strings out of 495062
+ 33342 string characters out of 1182643
  104367 words of memory out of 3000000
- 5949 multiletter control sequences out of 15000+50000
+ 5950 multiletter control sequences out of 15000+50000
  10914 words of font info for 39 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 27i,11n,21p,308b,172s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,11n,21p,436b,172s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on relevant_eq.dvi (3 pages, 5664 bytes).
+Output written on relevant_eq.dvi (3 pages, 6852 bytes).
